@@ -1,0 +1,42 @@
+[{
+"Marka": "Wolkswagen",
+"Model": "Golf R",
+"ResimURL":"https://raw.githubusercontent.com/MerttOnal/Final-dev/main/yeni-golf-8-fiyati.jpg",
+"BeygirGucu":"300"
+},
+
+{
+"Marka": "Ford",
+"Model": "Focus",
+"ResimURL":"https://raw.githubusercontent.com/MerttOnal/Final-dev/main/new-ford-focus-rs-render.webp",
+"BeygirGucu":"300"
+},
+
+{
+"Marka": "Honda",
+"Model": "Civic",
+"ResimURL":"https://raw.githubusercontent.com/MerttOnal/Final-dev/main/yeni-honda-civic-type-R-fiyat.jpg",
+"BeygirGucu":"270"
+},
+
+{
+"Marka": "Hyundai",
+"Model": "İ30N",
+"ResimURL":"https://raw.githubusercontent.com/MerttOnal/Final-dev/main/az8x2607a_0.jpg",
+"BeygirGucu":"280"
+},
+
+{
+"Marka": "Audi",
+"Model": "RS3",
+"ResimURL":"https://raw.githubusercontent.com/MerttOnal/Final-dev/main/audi-rs3-sportback-by-abt-sportsline.jpg",
+"BeygirGucu":"320"
+},
+
+{
+"Marka": "Peugeot",
+"Model": "308 GT Line",
+"ResimURL":"https://raw.githubusercontent.com/MerttOnal/Final-dev/main/peugeot-308.jpg",
+"BeygirGucu":"290"
+}
+]
